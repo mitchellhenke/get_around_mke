@@ -23,7 +23,7 @@ permalink: pretty
 template_engine: liquid
 
 collections:
-  biking:
+  get_around:
     output: true
     permalink: pretty
 
