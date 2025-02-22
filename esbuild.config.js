@@ -18,20 +18,13 @@ const build = require("./config/esbuild.defaults.js")
 // }
 // ```
 //
-// You can also support custom base_path deployments via changing `publicPath`.
-//
-// ```
-// const esbuildOptions = {
-//   publicPath: "/my_subfolder/_bridgetown/static",
-//   ...
-// }
-// ```
 
 /**
  * @typedef { import("esbuild").BuildOptions } BuildOptions
  * @type {BuildOptions}
  */
 const esbuildOptions = {
+  publicPath: "/get_around_mke/_bridgetown/static",
   plugins: [
     // add new plugins here...
   ],
