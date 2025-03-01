@@ -25,7 +25,6 @@ template_engine: liquid
 collections:
   get_around:
     output: true
-    permalink: pretty
 
 # Other options you might want to investigate:
 #
