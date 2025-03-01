@@ -25,6 +25,8 @@ template_engine: liquid
 collections:
   get_around:
     output: true
+  your_life:
+    output: true
 
 # Other options you might want to investigate:
 #
