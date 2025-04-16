@@ -5,7 +5,7 @@ title: Leaving the City
 
 ## Getting to the Airport
 
-Flying out of Mitchell Airport? Take MCTS's Green or 18 lines. They will drop you off at the entrance (pick you up too, of course). The Green line operates 24/7. Depending on the time of day, you will likely wait no longer than 5-20 minutes for the bus. Not that much longer than waiting for a rideshare or walking to parking - and a heck of a lot cheaper.
+Flying out of Mitchell Airport? Take MCTS's Green or 80 lines. They will drop you off at the entrance (pick you up too, of course). The Green line operates 24/7. Depending on the time of day, you will likely wait no longer than 5-20 minutes for the bus. Not that much longer than waiting for a rideshare or walking to parking - and a heck of a lot cheaper.
 If you don't normally take the bus, take note of the fare and how to get on.
 
 ### How to get on the bus
